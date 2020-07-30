@@ -4,6 +4,10 @@
 
 https://vigorous-mirzakhani-1c2a13.netlify.app/
 
+- 🔭 I’m currently working on ... MERN Stack 
+- 🌱 I’m currently learning ... In depth of Node JS and Unit Testing 
+
+
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priom7&show_icons=true&hide_border=true" />
 
