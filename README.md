@@ -8,6 +8,7 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 - 🌱 I’m currently learning ... In depth of Node JS and Unit Testing 
 
 <br/>
+---
 
 ### Connect with me:
 
@@ -17,11 +18,13 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 
 
 <br />
+---
 
 
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priom7&show_icons=true&hide_border=true" />
 
+---
 
 [website]: https://vigorous-mirzakhani-1c2a13.netlify.app/
 [linkedin]: https://www.linkedin.com/in/md-sharif-alam/
