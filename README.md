@@ -11,9 +11,9 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 
 ### Connect with me:
 
-[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][https://vigorous-mirzakhani-1c2a13.netlify.app/]
-[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][https://www.youtube.com/channel/UCQBNtK0438DJa_uug8sxPqw?view_as=subscriber]
-[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][https://www.linkedin.com/in/md-sharif-alam/]
+[<img align="left" alt="codeSTACKr.com" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 
 <br />
@@ -21,6 +21,11 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priom7&show_icons=true&hide_border=true" />
+
+[website] : https://vigorous-mirzakhani-1c2a13.netlify.app/
+[youtube] : https://www.youtube.com/channel/UCQBNtK0438DJa_uug8sxPqw?view_as=subscriber
+[linkedin] : https://www.linkedin.com/in/md-sharif-alam/
+
 
 <!--
 **Priom7/Priom7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
