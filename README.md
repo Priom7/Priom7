@@ -22,9 +22,10 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=priom7&show_icons=true&hide_border=true" />
 
-[website] : https://vigorous-mirzakhani-1c2a13.netlify.app/
-[youtube] : https://www.youtube.com/channel/UCQBNtK0438DJa_uug8sxPqw?view_as=subscriber
-[linkedin] : https://www.linkedin.com/in/md-sharif-alam/
+
+[website]: https://codeSTACKr.com
+[twitter]: https://twitter.com/codeSTACKr
+[youtube]: https://youtube.com/codeSTACKr
 
 
 <!--
