@@ -4,7 +4,7 @@
 
 https://vigorous-mirzakhani-1c2a13.netlify.app/
 
-- 🔭 I’m currently working on ... MERN Stack 
+- 🔭 I’m currently working with ... MERN Stack 
 - 🌱 I’m currently learning ... In depth of Node JS and Unit Testing 
 
 
