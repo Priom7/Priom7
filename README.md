@@ -35,6 +35,12 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 [<img align="left" alt="codeSTACKr | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
+- Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priom7)](https://github.com/priom7/github-readme-stats)
+
+---
+
 
 <br />
 <br/>
@@ -52,13 +58,9 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 [linkedin]: https://www.linkedin.com/in/md-sharif-alam/
 [youtube]: https://www.youtube.com/channel/UCQBNtK0438DJa_uug8sxPqw?view_as=subscriber   
 
-- Top languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priom7)](https://github.com/priom7/github-readme-stats)
-
----
 
 
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Priom7hit-counter)
 
 
 
