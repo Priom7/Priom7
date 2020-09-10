@@ -44,7 +44,7 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 
 - Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priom7&bg_color=000000)](https://github.com/priom7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priom7&bg_color=000000&text_color=feff89)](https://github.com/priom7)
 
 ---
 
