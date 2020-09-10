@@ -39,6 +39,7 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 <br/>
 
 
+## Github Stats
 
 <img align="left" alt="priom7's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=priom7&show_icons=true&title_color=f4fa9c&icon_color=faee1c&hide_border=true&bg_color=000000&text_color=feff89" />
 
@@ -54,6 +55,9 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 <br />
 
 
+## Top Languages
+
+
 - Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priom7)](https://github.com/priom7/github-readme-stats)
@@ -62,12 +66,7 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 
 
 
-<a href="https://github.com/priom7/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priom7&repo=github-readme-stats" />
-</a>
-<a href="https://github.com/priom7/convoychat">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=priom7&repo=convoychat" />
-</a>
+
 
 
 <!--
