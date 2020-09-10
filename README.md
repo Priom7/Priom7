@@ -13,7 +13,7 @@
 <br/>
 
 
-
+---
 
 
 ## Fell free to check my protfolio
@@ -39,16 +39,17 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 <br />
 <br/>
 
+
+---
+
 - Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priom7)](https://github.com/priom7)
 
 ---
 
-
 <br />
 <br/>
-
 
 ## Github Stats
 
