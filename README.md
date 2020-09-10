@@ -52,10 +52,6 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 [linkedin]: https://www.linkedin.com/in/md-sharif-alam/
 [youtube]: https://www.youtube.com/channel/UCQBNtK0438DJa_uug8sxPqw?view_as=subscriber   
 
-<br   />   
-   <br />   
-
-
 - Top languages
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priom7)](https://github.com/priom7/github-readme-stats)
