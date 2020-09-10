@@ -16,7 +16,8 @@
 
 
 
-## Fell free to check my protfolio 
+## Fell free to check my protfolio
+![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://vigorous-mirzakhani-1c2a13.netlify.app/hit-counter)
 
 https://vigorous-mirzakhani-1c2a13.netlify.app/
 
