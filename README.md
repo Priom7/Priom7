@@ -41,19 +41,19 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 
 ## Github Stats
 
-<img align="left" alt="priom7's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=priom7&show_icons=true&title_color=f4fa9c&icon_color=faee1c&hide_border=true&bg_color=000000&text_color=feff89" />
+<img align="left" alt="priom7's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=priom7&show_icons=true&title_color=f4fa9c&icon_color=faee1c&hide_border=true&bg_color=000000&text_color=feff89" />  
 
 
-<br />
-<br />
+<br   />   
+   <br />   
 
 [website]: https://vigorous-mirzakhani-1c2a13.netlify.app/
 [linkedin]: https://www.linkedin.com/in/md-sharif-alam/
 [youtube]: https://www.youtube.com/channel/UCQBNtK0438DJa_uug8sxPqw?view_as=subscriber
 
-<br />
-<br />
-
+<br    />    
+<br    />   
+   
 
 ## Top Languages
 
