@@ -51,6 +51,14 @@ https://vigorous-mirzakhani-1c2a13.netlify.app/
 [youtube]: https://www.youtube.com/channel/UCQBNtK0438DJa_uug8sxPqw?view_as=subscriber
 
 
+
+- Top languages
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priom7)](https://github.com/priom7/github-readme-stats)
+
+---
+
+
 <!--
 **Priom7/Priom7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
