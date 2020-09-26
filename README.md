@@ -20,6 +20,10 @@
 
 https://vigorous-mirzakhani-1c2a13.netlify.app/
 
+## Check my CV here ->
+
+https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/edit?usp=sharing
+
 - 🔭 I’m currently working with ... MERN Stack 
 - 🌱 I’m currently learning ... In depth of Node JS and Unit Testing 
 - 🤔 Future learning goal ... Python (Django) 
