@@ -38,9 +38,9 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 
 ### Connect with me:
 
-[<img align="left" alt="priom7" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="priom7" width="22px" color="re color="green"d" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="priom7 | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
-[<img align="left" alt="priom7| LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
+[<img align="left" alt="priom7| LinkedIn" width="22px" color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
 
 <br />
