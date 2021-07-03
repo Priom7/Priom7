@@ -72,7 +72,7 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 
 
 
-![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Priom7hit-counter)
+<!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Priom7hit-counter) -->
 
 
 
