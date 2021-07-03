@@ -58,9 +58,9 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 <br />
 <br/>
 
-## Github Stats
+<!-- ## Github Stats
 
-<img align="left" alt="priom7's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=priom7&show_icons=true&title_color=f4fa9c&icon_color=faee1c&hide_border=true&bg_color=000000&text_color=feff89" />  
+<img align="left" alt="priom7's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=priom7&show_icons=true&title_color=f4fa9c&icon_color=faee1c&hide_border=true&bg_color=000000&text_color=feff89" />   -->
 
 
 <br   />   
