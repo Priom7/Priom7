@@ -16,7 +16,7 @@
 ---
 
 
-## Check my protfolio here -> 
+## Check my portfolio here -> 
 
 https://vigorous-mirzakhani-1c2a13.netlify.app/
 
