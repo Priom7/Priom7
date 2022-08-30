@@ -61,7 +61,7 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 <br   />   
    <br />   
 
-[website]: https://vigorous-mirzakhani-1c2a13.netlify.app/
+[website]: https://sharifalam.netlify.app/
 [linkedin]: https://www.linkedin.com/in/md-sharif-alam/
 [youtube]: https://www.youtube.com/channel/UCQBNtK0438DJa_uug8sxPqw?view_as=subscriber   
 
