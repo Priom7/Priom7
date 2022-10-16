@@ -15,9 +15,9 @@
 
 https://sharifalam.netlify.app/
 
-## Check my CV here ->
+<!-- ## Check my CV here ->
 
-https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/edit?usp=sharing
+https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/edit?usp=sharing -->
 
 - 🔭 I’m currently working with ... Laravel, Vue JS and SQL Stack 
 - 🔭 I’m Comfortable working with ... MERN Stack and ASP.NET MVC
