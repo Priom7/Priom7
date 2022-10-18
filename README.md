@@ -24,8 +24,8 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 - 🌱 I’m currently learning ... Realtime communication technologies (Web RTC, Web Socket, Socket IO) 
 - 🤔 Future learning goal ... In depth of Node JS and Unit Testing, Python (Django) 
 - 🤔 Field of interest ... Software Engineering, System Design and Architect , Pentesting.
-- 🔭 I’m Comfortable with Languages ... Java, JavaScrit and PHP 
-- 🔭 Basic Experince Working With ... C, C++, C#, Python, R, TypeScript
+- 🔭 I’m Comfortable with Languages ... Java, JavaScrit, PHP and C# 
+- 🔭 Basic Experince Working With ... C, C++, Python, R, TypeScript
 
 
 <br/>
