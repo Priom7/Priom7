@@ -31,6 +31,13 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 <br/>
 <br/>
 
+## Live Updates -> 
+- Covid-19 Info ... https://priceless-wescoff-783a66.netlify.app/
+- New Movies ... https://netflix-clone-app-396c5.web.app/
+
+<br/>
+<br/>
+
 ### Connect with me:
 
 [<img align="left" alt="priom7 | Protfolio" width="22px" class="text-purple" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
