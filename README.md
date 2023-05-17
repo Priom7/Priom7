@@ -34,6 +34,7 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 ## Live Updates -> 
 - Covid-19 Info ... https://priceless-wescoff-783a66.netlify.app/
 - New Movies ... https://netflix-clone-app-396c5.web.app/
+- Weather ... https://gifted-joliot-e609d7.netlify.app/
 
 <br/>
 <br/>
