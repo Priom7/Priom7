@@ -54,7 +54,7 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 
 - Top languages
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priom7&langs_count=20&layout=compact&bg_color=ffffff&text_color=000000&show_icons=true&title_color=f4fa9c&icon_color=faee1c)](https://github.com/priom7)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priom7&langs_count=20&layout=compact&bg_color=ffffff&text_color=000000&show_icons=true&title_color=000000&icon_color=faee1c)](https://github.com/priom7)
 
 ---
 
