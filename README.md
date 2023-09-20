@@ -75,6 +75,7 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=priom7&theme=jolly" width="700">
 
+[![GitHub Streak](https://streak-stats.demolab.com?user=priom7&hide_border=true)](https://git.io/streak-stats)
 <!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Priom7hit-counter) -->
 
 
