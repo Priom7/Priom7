@@ -41,7 +41,7 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 
 ### Connect with me:
 
-[<img align="left" alt="priom7 | Protfolio" width="22px" class="text-purple" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="priom7 | Portfolio" width="22px" class="text-purple" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
 [<img align="left" alt="priom7 | YouTube" width="22px" text_color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
 [<img align="left" alt="priom7| LinkedIn" width="22px" text_color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
 
@@ -77,7 +77,7 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 <img src="https://github-readme-streak-stats.herokuapp.com?user=priom7&theme=jolly" width="700">
 -->
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=priom7&hide_border=true)](https://git.io/streak-stats)
+<!--  [![GitHub Streak](https://streak-stats.demolab.com?user=priom7&hide_border=true)](https://git.io/streak-stats) -->
 <!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Priom7hit-counter) -->
 
 
@@ -89,7 +89,7 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ... MERN Stack 
-- 🌱 I’m currently learning ... In depth of Node JS
+
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
