@@ -19,7 +19,7 @@ https://sharifalam.netlify.app/
 
 https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/edit?usp=sharing -->
 
-- 🔭 I’m currently working with ... Laravel, Vue JS and SQL Stack 
+- 🔭 I’m currently working with ... Laravel, Vue JS, ReactJs and SQL Stack 
 - 🔭 I’m Comfortable working with ... MERN Stack and ASP.NET MVC
 - 🌱 I’m currently learning ... Realtime communication technologies (Web RTC, Web Socket, Socket IO) 
 - 🤔 Future learning goal ... In depth of Node JS and Unit Testing, Python (Django) 
