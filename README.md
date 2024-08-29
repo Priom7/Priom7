@@ -116,7 +116,7 @@ Get the latest weather updates for your location. Simple, accurate, and always u
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priom7&langs_count=10&layout=compact&bg_color=0D1117&text_color=ffffff&title_color=00E6FE&icon_color=00E6FE" alt="Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priom7&langs_count=16&layout=compact&bg_color=0D1117&text_color=ffffff&title_color=00E6FE&icon_color=00E6FE" alt="Top Languages">
 </p>
 
 ---
