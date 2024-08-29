@@ -13,7 +13,7 @@ Experienced professional with 6+ years of extensive expertise in FinTech and EdT
 
 <p align="center">
 <!--  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="coding gif"> -->
-  <img src="https://github.com/Priom7/Priom7/blob/master/images/hello2.png" alt="Cover Image"width="400" height="auto"> 
+  <img src="https://github.com/Priom7/Priom7/blob/master/images/hello2.png" alt="Cover Image" width="200" height="300"> 
 </p>
 
 🌐 **[Check out my portfolio](https://sharifalam.netlify.app/)**
