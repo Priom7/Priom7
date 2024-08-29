@@ -1,5 +1,5 @@
 <!-- Cover Image -->
-<!-- <img src="https://i.imgur.com/your_cover_image_url_here.jpg" alt="Cover Image" width="100%" height="auto"> -->
+<!-- <img src="https://i.imgur.com/https://github.com/Priom7/Priom7/blob/master/images/hello.png" alt="Cover Image" width="100%" height="auto"> -->
 
 ### Hi there 👋, I'm Md. Sharif Alam
 
@@ -12,7 +12,8 @@
 Experienced professional with 6+ years of extensive expertise in FinTech and EdTech sectors. Proficient in navigating raw brownfield legacy software and seamlessly migrating outdated systems to modern technologies and frameworks. Demonstrated success in end-to-end project management, ensuring scalability, maintainability, and robust business logic implementation. Recognized for leadership capabilities in fostering cohesive teams and driving projects to success. Skilled in acquisition, technical inspection, and meticulous system evaluation.
 
 <p align="center">
-  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="coding gif">
+<!--  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="coding gif"> -->
+  <img src="https://github.com/Priom7/Priom7/blob/master/images/hello2.png" alt="Cover Image"width="400" height="auto"> 
 </p>
 
 🌐 **[Check out my portfolio](https://sharifalam.netlify.app/)**
