@@ -50,7 +50,7 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 <br />
 <br/>
 
-<!-- <img align="left" alt="priom7" src="https://github.com/Priom7/Priom7/blob/master/images/Capture.PNG" /> -->
+ <img align="left" alt="priom7" src="https://github.com/Priom7/Priom7/blob/master/images/Capture.PNG" /> 
 
 <br />
 <br/>
