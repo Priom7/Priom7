@@ -29,7 +29,6 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 - 🔭 I’m Comfortable with Languages ... Java, JavaScript, PHP and C# 
 - 🔭 Basic Experince Working With ... C, C++, R, TypeScript, DevOps, Docker, Git.
 
-
 <br/>
 <br/>
 
@@ -51,6 +50,10 @@ https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/
 <br />
 <br/>
 
+<!-- <img align="left" alt="priom7" src="https://github.com/Priom7/Priom7/blob/master/images/Capture.PNG" /> -->
+
+<br />
+<br/>
 
 ---
 
