@@ -1,104 +1,149 @@
-### Hi there 👋
-![](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS)
+<!-- Cover Image -->
+<!-- <img src="https://i.imgur.com/your_cover_image_url_here.jpg" alt="Cover Image" width="100%" height="auto"> -->
 
+### Hi there 👋, I'm Md. Sharif Alam
 
-
-<!-- <img align="left" alt="priom7" src="https://github.com/Priom7/Priom7/blob/master/images/md.%20sharif%20alam.png" /> -->
-
-<br/>
-
+![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
 
 ---
 
-
-## Check my portfolio here -> 
-
-https://sharifalam.netlify.app/
+## 🚀 About Me
 
 Experienced professional with 6+ years of extensive expertise in FinTech and EdTech sectors. Proficient in navigating raw brownfield legacy software and seamlessly migrating outdated systems to modern technologies and frameworks. Demonstrated success in end-to-end project management, ensuring scalability, maintainability, and robust business logic implementation. Recognized for leadership capabilities in fostering cohesive teams and driving projects to success. Skilled in acquisition, technical inspection, and meticulous system evaluation.
 
-<!-- ## Check my CV here ->
+<p align="center">
+  <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="400" alt="coding gif">
+</p>
 
-https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/edit?usp=sharing -->
-
-- 🔭 I’m currently working with ... Laravel, Vue JS, ReactJs and SQL Stack 
-- 🔭 I’m Comfortable working with ... MERN Stack and ASP.NET MVC
-- 🌱 I’m currently learning ... Realtime communication technologies (Web RTC, Web Socket, Socket IO) 
-- 🤔 Future learning goal ... In depth of Node JS and Unit Testing, Python (Django) 
-- 🤔 Field of interest ... Software Engineering, System Design and Architect , Pentesting.
-- 🔭 I’m Comfortable with Languages ... Java, JavaScript, PHP and C# 
-- 🔭 Basic Experince Working With ... C, C++, R, TypeScript, DevOps, Docker, Git.
-
-<br/>
-<br/>
-
-## Live Updates -> 
-- Covid-19 Info ... https://priceless-wescoff-783a66.netlify.app/
-- New Movies ... https://netflix-clone-app-396c5.web.app/
-- Weather ... https://gifted-joliot-e609d7.netlify.app/
-
-<br/>
-<br/>
-
-### Connect with me:
-
-[<img align="left" alt="priom7 | Portfolio" width="22px" class="text-purple" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="priom7 | YouTube" width="22px" text_color="red" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube] 
-[<img align="left" alt="priom7| LinkedIn" width="22px" text_color="blue" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]  
-
-
-<br />
-<br/>
-
- <img align="left" alt="priom7" src="https://github.com/Priom7/Priom7/blob/master/images/Capture.PNG" /> 
-
-<br />
-<br/>
+🌐 **[Check out my portfolio](https://sharifalam.netlify.app/)**
 
 ---
 
-- Top languages
+## 🏆 Profile Trophy Case
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=priom7&langs_count=20&layout=compact&bg_color=ffffff&text_color=000000&show_icons=true&title_color=000000&icon_color=faee1c)](https://github.com/priom7)
+<p align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=priom7&theme=monokai&no-frame=true&row=1&column=7" alt="GitHub Trophy Case" />
+  </a>
+</p>
 
 ---
 
-<br />
-<br/>
+## 💡 Random Quote for Inspiration
 
-<!-- ## Github Stats
+<p align="center">
+  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
+</p>
 
-<img align="left" alt="priom7's Github Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=priom7&show_icons=true&title_color=f4fa9c&icon_color=faee1c&hide_border=true&bg_color=000000&text_color=feff89" />   -->
+---
 
+## 🛠️ Skills & Technologies
 
-<br   />   
-   <br />   
+### **Programming Languages**
+<p>
+  <img src="https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java">
+  <img src="https://img.shields.io/badge/JavaScript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript">
+  <img src="https://img.shields.io/badge/PHP-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" alt="PHP">
+  <img src="https://img.shields.io/badge/C%23-%23239120.svg?style=for-the-badge&logo=c-sharp&logoColor=white" alt="C#">
+  <img src="https://img.shields.io/badge/TypeScript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript">
+</p>
 
-[website]: https://sharifalam.netlify.app/
-[linkedin]: https://www.linkedin.com/in/md-sharif-alam/
-[youtube]: https://www.youtube.com/channel/UCQBNtK0438DJa_uug8sxPqw?view_as=subscriber   
+### **Frameworks & Libraries**
+<p>
+  <img src="https://img.shields.io/badge/Laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel">
+  <img src="https://img.shields.io/badge/Vue.js-%234FC08D.svg?style=for-the-badge&logo=vue-dot-js&logoColor=white" alt="Vue.js">
+  <img src="https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=black" alt="React">
+  <img src="https://img.shields.io/badge/ASP.NET%20MVC-%23010202.svg?style=for-the-badge&logo=dotnet&logoColor=white" alt="ASP.NET MVC">
+  <img src="https://img.shields.io/badge/Node.js-%23339933.svg?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js">
+</p>
+
+### **Database Systems**
+<p>
+  <img src="https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
+  <img src="https://img.shields.io/badge/MongoDB-%2347A248.svg?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB">
+  <img src="https://img.shields.io/badge/SQL-%2300F.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL">
+  <img src="https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase">
+</p>
+
+### **DevOps & Tools**
+<p>
+  <img src="https://img.shields.io/badge/Docker-%232496ED.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker">
+  <img src="https://img.shields.io/badge/Amazon%20AWS-%23232F3E.svg?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="AWS">
+  <img src="https://img.shields.io/badge/Azure%20DevOps-%23007ACC.svg?style=for-the-badge&logo=azure-devops&logoColor=white" alt="Azure DevOps">
+  <img src="https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git">
+  <img src="https://img.shields.io/badge/Bitbucket-%2300538F.svg?style=for-the-badge&logo=bitbucket&logoColor=white" alt="Bitbucket">
+  <img src="https://img.shields.io/badge/Postman-%23FF6C37.svg?style=for-the-badge&logo=postman&logoColor=white" alt="Postman">
+</p>
+
+### **Operating Systems**
+<p>
+  <img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white" alt="Windows">
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux">
+  <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white" alt="Unix">
+</p>
+
+---
+
+## 🔭 Currently Working On
+- **Technologies:** `Laravel/PHP`, `Vue.js/JavaScript`, `ReactJs/NextJs/TypeScript`, `SQL`,`AWS`, `Docker`, `CI/CD`
+
+<p align="center">
+  <img src="https://media.giphy.com/media/l0HlymKkqkdmUjR1q/giphy.gif" width="400" alt="working gif">
+</p>
+
+---
+
+## 🌐 Live Projects
+
+### [Covid-19 Info](https://priceless-wescoff-783a66.netlify.app/)
+A live dashboard providing up-to-date information on the Covid-19 pandemic. Stay informed with the latest stats and trends.
+
+<!--  ![Covid-19 Info](https://i.imgur.com/your_covid19_image_url.jpg) -->
+
+### [Netflix Clone App](https://netflix-clone-app-396c5.web.app/)
+A clone of the popular streaming service Netflix. Explore the latest movies and shows with an interactive UI.
+
+<!-- ![Netflix Clone](https://i.imgur.com/your_netflix_clone_image_url.jpg) -->
+
+### [Weather App](https://gifted-joliot-e609d7.netlify.app/)
+Get the latest weather updates for your location. Simple, accurate, and always updated.
+
+<!-- ![Weather App](https://i.imgur.com/your_weather_app_image_url.jpg) -->
+
+---
+
+## 📈 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priom7&langs_count=10&layout=compact&bg_color=0D1117&text_color=ffffff&title_color=00E6FE&icon_color=00E6FE" alt="Top Languages">
+</p>
+
+---
+
+## 📫 Connect with Me:
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/md-sharif-alam/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+  <a href="https://www.youtube.com/channel/UCQBNtK0438DJa_uug8sxPqw?view_as=subscriber"><img src="https://img.shields.io/badge/-YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube"></a>
+  <a href="https://sharifalam.netlify.app/"><img src="https://img.shields.io/badge/-Portfolio-ff69b4?style=for-the-badge&logo=internet-explorer&logoColor=white" alt="Portfolio"></a>
+</p>
+
+---
+
+<p align="center">
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="600" alt="coding gif">
+</p>
+
+---
+
+## 📚 Other Projects
+- **[Yoga App](https://github.com/Priom7/Yoga-App):** Native and Hybrid Android applications for managing yoga courses, classes, and schedules.
+- **[IT Workflow Automation](https://github.com/Priom7/ReactAdminDashboard):** Complete ERP system for automating IT workflows, asset management, and inventory scheduling.
+- **[Speaking and Listening Assistant](https://github.com/Priom7/CSE-299-Speaking-and-Listening-Assistant-Smart-Gloves-and-App-.git):** Smart glove integrated with Arduino and Android for enhanced communication.
+
+---
+
 
 <!--
-<img src="https://github-readme-streak-stats.herokuapp.com?user=priom7&theme=jolly" width="700">
--->
-
-<!--  [![GitHub Streak](https://streak-stats.demolab.com?user=priom7&hide_border=true)](https://git.io/streak-stats) -->
-<!-- ![Hits](https://hitcounter.pythonanywhere.com/count/tag.svg?url=https://github.com/Priom7hit-counter) -->
-
-
-
-
-<!--
-**Priom7/Priom7** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ... MERN Stack 
-
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+**Priom7/Priom7** is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
