@@ -15,6 +15,8 @@
 
 https://sharifalam.netlify.app/
 
+Experienced professional with 6+ years of extensive expertise in FinTech and EdTech sectors. Proficient in navigating raw brownfield legacy software and seamlessly migrating outdated systems to modern technologies and frameworks. Demonstrated success in end-to-end project management, ensuring scalability, maintainability, and robust business logic implementation. Recognized for leadership capabilities in fostering cohesive teams and driving projects to success. Skilled in acquisition, technical inspection, and meticulous system evaluation.
+
 <!-- ## Check my CV here ->
 
 https://docs.google.com/document/d/1IWM-emYKiK_GJVyps-0ZH69c5gBBsW9-iahWDae0B9U/edit?usp=sharing -->
