@@ -29,6 +29,21 @@ Experienced professional with 6+ years of extensive expertise in FinTech and EdT
 </p>
 
 ---
+## 📊 GitHub Stats & Analytics
+
+### 1. **GitHub Activity Graph**
+
+![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=priom7&theme=react-dark&bg_color=20232a&hide_border=true)
+
+### 2. **Most Used Languages**
+
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priom7&theme=monokai)](https://github.com/priom7)
+
+### 3. **Contributions Calendar**
+
+![Contributions Calendar](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=priom7&theme=monokai)
+
+---
 
 ## 💡 Random Quote for Inspiration
 
