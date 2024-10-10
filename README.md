@@ -37,9 +37,9 @@ Experienced professional with 6+ years of extensive expertise in FinTech and EdT
 
 ### 2. **Most Used Languages**
 
-<p align="center">
-  [![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priom7&theme=monokai)](https://github.com/priom7)
-</p>
+
+[![Most Used Languages](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=priom7&theme=monokai)](https://github.com/priom7)
+
 
 ### 3. **Contributions Calendar**
 
