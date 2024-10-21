@@ -1,6 +1,5 @@
 <!-- Cover Image -->
 <!-- <img src="https://i.imgur.com/https://github.com/Priom7/Priom7/blob/master/images/hello.png" alt="Cover Image" width="100%" height="auto"> -->
-# 🔍OPEN TO WORK
 ### Hi there 👋, I'm Md. Sharif Alam
 
 ![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
