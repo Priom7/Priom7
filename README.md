@@ -1,7 +1,7 @@
 <!-- Cover Image -->
 <!-- <img src="https://i.imgur.com/https://github.com/Priom7/Priom7/blob/master/images/hello.png" alt="Cover Image" width="100%" height="auto"> -->
 ### Hi there 👋, I'm Md. Sharif Alam
-#### Fullstack Engineer | Crafting intuitive UIs, seamless UX, robust backends, and reliable DevOps pipelines for a cohesive digital experience.
+#### Fullstack Software Engineer | Crafting intuitive UIs, seamless UX, robust backends, and reliable DevOps pipelines for a cohesive digital experience.
 ![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
 
 ---
