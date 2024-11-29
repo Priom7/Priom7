@@ -105,7 +105,8 @@ Experienced professional with 6+ years of extensive expertise in FinTech and EdT
 - **Technologies:** `Laravel/PHP`, `Vue.js/JavaScript`, `ReactJs/NextJs/TypeScript`, `SQL`,`AWS`, `Docker`, `CI/CD`
 
 <p align="center">
-  <img src="https://media.giphy.com/media/l0HlymKkqkdmUjR1q/giphy.gif" width="400" alt="working gif">
+<!--   <img src="https://media.giphy.com/media/l0HlymKkqkdmUjR1q/giphy.gif" width="400" alt="working gif"> -->
+    <img src="https://github.com/Priom7/Priom7/blob/master/images/working.gif" width="400" alt="working gif">
 </p>
 
 ---
