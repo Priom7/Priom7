@@ -113,17 +113,17 @@ Experienced professional with 6+ years of extensive expertise in FinTech and EdT
 
 ## 🌐 Live Projects
 
-### [Covid-19 Info](https://priceless-wescoff-783a66.netlify.app/)
+###🖱️ [Covid-19 Info](https://priceless-wescoff-783a66.netlify.app/)
 A live dashboard providing up-to-date information on the Covid-19 pandemic. Stay informed with the latest stats and trends.
 
 <!--  ![Covid-19 Info](https://i.imgur.com/your_covid19_image_url.jpg) -->
 
-### [Netflix Clone App](https://netflix-clone-app-396c5.web.app/)
+###🖱️ [Netflix Clone App](https://netflix-clone-app-396c5.web.app/)
 A clone of the popular streaming service Netflix. Explore the latest movies and shows with an interactive UI.
 
 <!-- ![Netflix Clone](https://i.imgur.com/your_netflix_clone_image_url.jpg) -->
 
-### [Weather App](https://gifted-joliot-e609d7.netlify.app/)
+###🖱️ [Weather App](https://gifted-joliot-e609d7.netlify.app/)
 Get the latest weather updates for your location. Simple, accurate, and always updated.
 
 <!-- ![Weather App](https://i.imgur.com/your_weather_app_image_url.jpg) -->
