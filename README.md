@@ -23,7 +23,7 @@ Experienced professional with 6+ years of extensive expertise in FinTech and EdT
 
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priom7&theme=monokai&no-frame=true&row=1&column=7" alt="GitHub Trophy Case" />
+    <img src="https://github-profile-trophy.vercel.app/?username=priom7&theme=monokai&no-frame=true&row=1&column=5" alt="GitHub Trophy Case" />
   </a>
 </p>
 
