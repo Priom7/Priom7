@@ -130,6 +130,25 @@ Get the latest weather updates for your location. Simple, accurate, and always u
 
 ---
 
+## 🌐 Articles and Writings
+
+### [IT Workflow Automation: Transforming IT Asset Management with AI Integration (ITWA-AI)](https://medium.com/@priom7197/it-workflow-automation-transforming-it-asset-management-with-ai-integration-itwa-ai-973761b4e283) 🖱️
+The AI-powered IT Asset Management System is revolutionizing how organizations manage their IT infrastructure.
+
+<!--  ![Covid-19 Info](https://i.imgur.com/your_covid19_image_url.jpg) -->
+
+### [🗣️Phonetic Algorithms to Optimize Search Engines, Spell Correction, Suggestions, and More 🔎](https://medium.com/@priom7197/️phonetic-algorithms-to-optimize-search-engines-spell-correction-suggestions-and-more-65e06dc991d0) 🖱️
+This repository consolidates a series of articles, research papers, and resources that provide insights into the various phonetic algorithms available and their applications in search engine optimization, spelling correction, and text matching.
+
+<!-- ![Netflix Clone](https://i.imgur.com/your_netflix_clone_image_url.jpg) -->
+
+### [🎉 Introducing the Dynamic React Component Builder! 🚀](https://medium.com/@priom7197/introducing-the-dynamic-react-component-builder-ec50c4fc302e) 🖱️
+This tool simplifies the process of creating reusable and highly scalable React components, helping developers focus on delivering impactful solutions without getting bogged down by repetitive tasks.
+
+<!-- ![Weather App](https://i.imgur.com/your_weather_app_image_url.jpg) -->
+
+---
+
 ## 📈 GitHub Stats
 
 <p align="center">
