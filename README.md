@@ -132,6 +132,9 @@ Get the latest weather updates for your location. Simple, accurate, and always u
 
 ## 🌐 Articles and Writings
 
+### [Run AI Chatbot Locally with React, Ollama & DeepSeek LLM](https://medium.com/@priom7197/️-run-ai-chatbot-locally-with-react-ollama-deepseek-llm-6e762e076f2f) 🖱️
+The entire application, including the LLM model, runs on your local machine, ensuring full control over data and performance.
+
 ### [IT Workflow Automation: Transforming IT Asset Management with AI Integration (ITWA-AI)](https://medium.com/@priom7197/it-workflow-automation-transforming-it-asset-management-with-ai-integration-itwa-ai-973761b4e283) 🖱️
 The AI-powered IT Asset Management System is revolutionizing how organizations manage their IT infrastructure.
 
