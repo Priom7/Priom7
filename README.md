@@ -132,6 +132,10 @@ Get the latest weather updates for your location. Simple, accurate, and always u
 
 ## 🌐 Articles and Writings
 
+
+### [Building a RAG (Retrieval-Augmented Generation) System with Node.js, React, and AI](https://build-rag-with-node.netlify.app/) 🖱️
+This article explores the design and implementation of a RAG-based system using Node.js, Express, LangChain, and MySQL, optimized with caching, parallel processing, and AI-driven query handling.
+
 ### [Run AI Chatbot Locally with React, Ollama & DeepSeek LLM](https://medium.com/@priom7197/️-run-ai-chatbot-locally-with-react-ollama-deepseek-llm-6e762e076f2f) 🖱️
 The entire application, including the LLM model, runs on your local machine, ensuring full control over data and performance.
 
