@@ -132,6 +132,9 @@ Get the latest weather updates for your location. Simple, accurate, and always u
 
 ## 🌐 Articles and Writings
 
+### [Building a RAG (Retrieval-Augmented Generation) Chat with any Database in Natural Language using OpenAI— Plug and Play Solution](https://medium.com/@priom7197/revolutionizing-database-interactions-with-ai-powered-sql-query-generation-da0ac8302207) 🖱️
+In today’s fast-paced data landscape, the ability to interact with your database effortlessly can be a significant competitive edge. Imagine describing your data needs in plain language and watching an optimized SQL query materialize in seconds — no more tedious manual query coding or endless Google searches.
+
 
 ### [Building a RAG (Retrieval-Augmented Generation) System with Node.js, React, and AI](https://build-rag-with-node.netlify.app/) 🖱️
 This article explores the design and implementation of a RAG-based system using Node.js, Express, LangChain, and MySQL, optimized with caching, parallel processing, and AI-driven query handling.
