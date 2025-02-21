@@ -2,6 +2,7 @@
 <!-- <img src="https://i.imgur.com/https://github.com/Priom7/Priom7/blob/master/images/hello.png" alt="Cover Image" width="100%" height="auto"> -->
 ### Hi there 👋, I'm Md. Sharif Alam
 #### Fullstack Software Engineer | Crafting intuitive UIs, seamless UX, robust backends, and reliable DevOps pipelines for a cohesive digital experience.
+#### RAG App, LLM Finetuning, Customised AI-Integrated Apps to Chat and get data insights in seconds. [Chat-W-Data](https://chat-w-data.netlify.app/#hero)
 ![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)
 
 ---
