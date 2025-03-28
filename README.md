@@ -141,6 +141,10 @@ Get the latest weather updates for your location. Simple, accurate, and always u
 
 ## 🌐 Articles and Writings
 
+### [How to Optimise your RAG — Enhancing LLM Accuracy with a Dictionary-Based Approach (Part 2/3)](https://medium.com/towardsdev/how-to-optimise-your-rag-enhancing-llm-accuracy-with-a-dictionary-based-approach-part-2-3-68e3532a4b5c) 🖱️
+The Dictionary System enhances LLM performance in five key ways:
+Domain-Specific Responses, Prevents Hallucinations, Filters Irrelevant Queries, Feedback Optimization, Efficient Query Execution
+
 ### [Enhancing Domain-Specific LLM Interactions with Structured Data — Part 1/3](https://medium.com/@priom7197/enhancing-domain-specific-llm-interactions-with-structured-data-a-new-approach-to-query-bb78e679cc9f) 🖱️
 Dictionary Approach to optimize and validate queries in real-time. This hybrid approach combines programmatic algorithms and AI techniques to ensure that queries are not only accurate but also efficient and contextually appropriate. In this article, we will dive into how the Dictionary Approach works, its key features, and how it addresses common AI challenges like hallucinations and data misinterpretation.
 
