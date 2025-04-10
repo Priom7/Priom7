@@ -140,7 +140,7 @@ Get the latest weather updates for your location. Simple, accurate, and always u
 
 ---
 
-## 🌐 Articles and Writings
+## 🌐 Articles and Writings (My Products/Side Projects)
 
 ### [Instantly Generate Laravel APIs from Your Database Schema: A Powerful CLI Tool](https://medium.com/@priom7197/instantly-generate-laravel-apis-from-your-database-schema-a-powerful-cli-tool-dcae914b3f24) 🖱️
 Imagine automating the tedious parts of API development, like generating migrations, models, controllers, routes, and even Docker configurations. Enter Laravel API Generator, a Node.js-based CLI tool designed to streamline the process of creating scalable, customizable, and production-ready Laravel APIs.
