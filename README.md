@@ -167,6 +167,9 @@ The entire application, including the LLM model, runs on your local machine, ens
 ### [IT Workflow Automation: Transforming IT Asset Management with AI Integration (ITWA-AI)](https://medium.com/@priom7197/it-workflow-automation-transforming-it-asset-management-with-ai-integration-itwa-ai-973761b4e283) 🖱️
 The AI-powered IT Asset Management System is revolutionizing how organizations manage their IT infrastructure.
 
+### [Custom PDF Generator for Question Papers- json2pdf (Browserless REST API)](https://medium.com/@priom7197/custom-pdf-generator-for-question-papers-json2pdf-browserless-rest-api-ad0356cf1ca4) 🖱️
+A lightweight, browserless REST API that generates print-ready PDF question papers from structured JSON data using PDFKit — ideal for educational platforms that require professional formatting without the overhead of headless browsers like Puppeteer.
+
 <!--  ![Covid-19 Info](https://i.imgur.com/your_covid19_image_url.jpg) -->
 
 ### [🗣️Phonetic Algorithms to Optimize Search Engines, Spell Correction, Suggestions, and More 🔎](https://medium.com/@priom7197/️phonetic-algorithms-to-optimize-search-engines-spell-correction-suggestions-and-more-65e06dc991d0) 🖱️
