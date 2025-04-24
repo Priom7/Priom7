@@ -125,6 +125,12 @@ Experienced professional with 6+ years of extensive expertise in FinTech and EdT
 ### [Chat-W-Data](https://chat-w-data.netlify.app/#hero) 🖱️
 Highly customizable app to Chat with your database, designed for both technical and non-technical user-base. Natural Language to SQL to Data Insights in seconds.
 
+### [Automate Your Laravel API Development](https://genapi.netlify.app/) 🖱️
+Transform your database schema into a production-ready Laravel API with a single command. Save hours of development time with our powerful Node.js CLI tool.
+
+### [Custom PDF Generator for Question Papers - Browserless REST API](https://www.npmjs.com/package/@priom7/json2pdf) 🖱️
+A lightweight, browserless REST API that generates print-ready PDF question papers from structured JSON data.
+
 ### [Covid-19 Info](https://priceless-wescoff-783a66.netlify.app/) 🖱️
 A live dashboard providing up-to-date information on the Covid-19 pandemic. Stay informed with the latest stats and trends.
 
