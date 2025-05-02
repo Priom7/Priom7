@@ -145,8 +145,20 @@ With **6+ years of expertise in FinTech and EdTech**, I specialize in:
       <img src="https://img.shields.io/badge/Unix-000000?style=for-the-badge&logo=unix&logoColor=white" alt="Unix">
     </td>
   </tr>
+   <tr>
+    <th colspan="2" align="center"><b>AI & ML</b></th>
+  </tr>
+  <tr>
+    <td colspan="2" align="center">
+      <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
+      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+      <img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" alt="RAG">
+      <img src="https://img.shields.io/badge/LLM-0082C8?style=for-the-badge" alt="LLM">
+    </td>
+  </tr>
 </table>
 </div>
+
 ---
 
 ## 🔭 Current Tech Stack
