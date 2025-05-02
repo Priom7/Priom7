@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/Priom7/Priom7/blob/master/images/hello.png" alt="Cover Banner" width="40%" height="auto">
+<!--   <img src="https://github.com/Priom7/Priom7/blob/master/images/hello.png" alt="Cover Banner" width="40%" height="auto"> -->
 
   # Md. Sharif Alam
 
