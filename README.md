@@ -81,7 +81,7 @@ With **6+ years of expertise in FinTech and EdTech**, I specialize in:
 ---
 
 ## 🛠️ Technical Skills
-
+<div align="center">
 <table>
   <tr>
     <th colspan="2" align="center">Programming Languages</th>
@@ -146,7 +146,7 @@ With **6+ years of expertise in FinTech and EdTech**, I specialize in:
     </td>
   </tr>
 </table>
-
+</div>
 ---
 
 ## 🔭 Current Tech Stack
