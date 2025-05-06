@@ -30,6 +30,14 @@ With **6+ years of expertise in FinTech and EdTech**, I specialize in:
 - Conducting thorough technical inspections and system evaluations
 - Developing AI-enhanced applications for data-driven insights
 
+## 👨‍💻 I am actively seeking (Open to Wrok)
+
+- KTP Associate role based in the UK
+- Global Talent Visa associated role
+- Research Associate, PHD Studentship
+- Sponsorship
+
+  
 <div align="center">
   <a href="https://sharifalam.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/Portfolio-Visit%20My%20Website-20232a?style=for-the-badge&logo=react&logoColor=61DAFB" alt="Portfolio"></a>
 </div>
