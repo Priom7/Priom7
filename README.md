@@ -199,6 +199,19 @@ With **6+ years of expertise in FinTech and EdTech**, I specialize in:
       </a>
     </td>
   </tr>
+   <tr>
+    <td width="70%">
+      <h3><a href="https://medium.com/@priom7197/laravel2doc-generate-sequence-diagrams-from-your-laravel-application-in-seconds-1-2-84bf8ac8a193">Laravel2Doc</a></h3>
+      <p>Currently being tested locally, Laravel2Doc will provide a full suite of documentation features, including:
+        Entity Relationship Diagrams (ERD), UML Class Diagrams, Sequence Diagrams, API Documentation</p>
+      <p><strong>Tech:</strong> Laravel, Node JS, Mermaid.js, CLI Tool, Open Source</p>
+    </td>
+    <td width="30%" align="center">
+      <a href="https://medium.com/@priom7197/laravel2doc-generate-sequence-diagrams-from-your-laravel-application-in-seconds-1-2-84bf8ac8a193">
+        <img src="https://img.shields.io/badge/View%20Project-%234FC08D?style=for-the-badge&logo=netlify&logoColor=white" alt="Laravel2Doc">
+      </a>
+    </td>
+  </tr>
   <tr>
     <td width="70%">
       <h3><a href="https://genapi.netlify.app/">Automate Your Laravel API Development</a> ⚡</h3>
