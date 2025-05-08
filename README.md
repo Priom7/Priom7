@@ -312,6 +312,15 @@ With **6+ years of expertise in FinTech and EdTech**, I specialize in:
       </a>
     </td>
   </tr>
+  <td width="80%">
+      <h3><a href="https://medium.com/@priom7197/how-i-document-and-track-my-work-with-just-0-01-effort-as-a-software-developer-b99ca75fe73d">How I Document and Track My Work With Just 0.01% Effort as a Software Developer</a></h3>
+      <p>Whatever it is, I’ve found that the key to moving fast without breaking things is a workflow that lets me document and track my work almost effortlessly — literally, with what feels like 0.01% effort.</p>
+    </td>
+    <td width="20%" align="center">
+      <a href="https://medium.com/@priom7197/how-i-document-and-track-my-work-with-just-0-01-effort-as-a-software-developer-b99ca75fe73d">
+        <img src="https://img.shields.io/badge/Read%20Article-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read Article">
+      </a>
+    </td>
   <tr>
     <td width="80%">
       <h3><a href="https://medium.com/@priom7197/revolutionizing-database-interactions-with-ai-powered-sql-query-generation-da0ac8302207">Chat with any Database in Natural Language using OpenAI</a></h3>
