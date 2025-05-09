@@ -354,6 +354,17 @@ With **6+ years of expertise in FinTech and EdTech**, I specialize in:
       </a>
     </td>
   </tr>
+   <tr>
+    <td width="80%">
+      <h3><a href="https://medium.com/@priom7197/the-gatekeeper-of-knowledge-in-corporate-culture-a-reflection-from-the-mid-career-frontlines-d5bcdf44204b">The Gatekeeper of Knowledge in Corporate Culture — A Reflection from the Mid-Career Frontlines</a></h3>
+      <p>Over the past 7 years of my professional life, I’ve worked with teams of various sizes, shapes, and industries. While my core expertise lies in software development, the lessons I’ve learned — especially about how knowledge is shared (or withheld) — are universal.</p>
+    </td>
+    <td width="20%" align="center">
+      <a href="https://medium.com/@priom7197/the-gatekeeper-of-knowledge-in-corporate-culture-a-reflection-from-the-mid-career-frontlines-d5bcdf44204b">
+        <img src="https://img.shields.io/badge/Read%20Article-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read Article">
+      </a>
+    </td>
+  </tr>
 </table>
 
 ---
