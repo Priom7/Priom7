@@ -11,7 +11,7 @@
   
   [![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)](https://github.com/priom7)
 
-  ### Live Projects/Devtools
+  ### Live Projects/Devtools/Open-Source
   <p>
     <a href="https://genapi.netlify.app/" target="_blank"><img src="https://img.shields.io/badge/GenAPI-Migrate%20Legacy%20to%20Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="GenAPI"></a>
 <!--     <a href="https://chat-w-data.netlify.app/#hero" target="_blank"><img src="https://img.shields.io/badge/Chat%20W%20Data-NL%20to%20SQL%20Insights-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="Chat-W-Data"></a> -->
