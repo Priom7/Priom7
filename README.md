@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img src="https://github.com/Priom7/Priom7/blob/master/images/hello.png" alt="Cover Banner" width="40%" height="auto"> -->
 
-  # Md. Sharif Alam (Open to Wrok)
+  # Md. Sharif Alam (Open to Work)
 
   ### Fullstack Software Engineer
   Crafting intuitive UIs, seamless UX, robust backends, and reliable DevOps pipelines for cohesive digital experiences.
@@ -26,8 +26,8 @@
 
 With **6+ years of expertise in FinTech and EdTech**, I specialize in:
 
-- Transforming legacy systems into modern scalable architectures
-- End-to-end project management with focus on maintainability
+- Transforming legacy systems into modern, scalable architectures
+- End-to-end project management with a focus on maintainability
 - Building cohesive teams and driving projects to successful completion
 - Conducting thorough technical inspections and system evaluations
 - Developing AI-enhanced applications for data-driven insights
