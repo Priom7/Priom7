@@ -24,7 +24,7 @@
 
 ## 👨‍💻 About Me
 
-With **6+ years of expertise in FinTech and EdTech**, I specialize in:
+With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
 - Transforming legacy systems into modern, scalable architectures
 - End-to-end project management with a focus on maintainability
