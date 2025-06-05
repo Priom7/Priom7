@@ -45,7 +45,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 </div>
 
 <div align="center">
-  <img src="https://github.com/Priom7/Priom7/blob/master/images/working.gif" width="400" alt="Working on projects">
+  <img src="https://github.com/Priom7/Priom7/blob/master/images/projects.png" width="90%" alt="Working on projects">
 </div>
 
 ---
