@@ -1,7 +1,7 @@
 <div align="center">
 <!--   <img src="https://github.com/Priom7/Priom7/blob/master/images/hello.png" alt="Cover Banner" width="40%" height="auto"> -->
 
-  # Md. Sharif Alam (Open to Work)
+  # Md. Sharif Alam
 
   ### Fullstack Software Engineer
   Crafting intuitive UIs, seamless UX, robust backends, and reliable DevOps pipelines for cohesive digital experiences.
@@ -32,12 +32,6 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 - Conducting thorough technical inspections and system evaluations
 - Developing AI-enhanced applications for data-driven insights
 
-## 👨‍💻 I am actively seeking (Open to Work)
-
-- KTP Associate role based in the UK
-- Global Talent Visa associated role
-- Research Associate, PHD Studentship
-- Sponsorship
 
   
 <div align="center">
