@@ -185,7 +185,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 <table>
   <tr>
     <td width="70%">
-      <h3><a href="https://chat-w-data.netlify.app/#hero">Chat-W-Data</a> 💬</h3>
+      <h3><a href="https://chat-w-data.netlify.app/#hero">Chat-W-Data (Agentic AI)</a> 💬</h3>
       <p>Highly customizable app to chat with your database, designed for both technical and non-technical users. Transforms natural language to SQL and delivers data insights in seconds.</p>
       <p><strong>Tech:</strong> Natural Language Processing, SQL Generation, React, Node.js</p>
     </td>
