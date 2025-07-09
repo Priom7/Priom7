@@ -150,15 +150,32 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
     </td>
   </tr>
    <tr>
-    <th colspan="2" align="center"><b>AI & ML</b></th>
+    <th colspan="2" align="center"><b>AI, ML & DL</b></th>
   </tr>
   <tr>
-    <td colspan="2" align="center">
-      <img src="https://img.shields.io/badge/LangChain-000000?style=for-the-badge&logo=chainlink&logoColor=white" alt="LangChain">
-      <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
-      <img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" alt="RAG">
-      <img src="https://img.shields.io/badge/LLM-0082C8?style=for-the-badge" alt="LLM">
-    </td>
+    <tr>
+  <td colspan="2" align="center">
+    <!-- Core Technologies -->
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python">
+    <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white" alt="PyTorch">
+    <img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" alt="NumPy">
+    <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas">
+    <img src="https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=matplotlib&logoColor=white" alt="Matplotlib">
+    <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" alt="Deep Learning">
+    <img src="https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge" alt="Natural Language Processing">
+    <img src="https://img.shields.io/badge/LLM-0082C8?style=for-the-badge" alt="Large Language Models">
+    <img src="https://img.shields.io/badge/Tokenizer-6A1B9A?style=for-the-badge" alt="Tokenizer">
+    <img src="https://img.shields.io/badge/Vectorization-00796B?style=for-the-badge" alt="Vectorization">
+    <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
+    <img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" alt="Retrieval Augmented Generation">
+    <img src="https://img.shields.io/badge/SHAP-F9A825?style=for-the-badge" alt="SHAP Explainability">
+    <img src="https://img.shields.io/badge/XML--R-3949AB?style=for-the-badge" alt="XML-R">
+    <img src="https://img.shields.io/badge/OpenSMILE-FF7043?style=for-the-badge" alt="OpenSMILE">
+    <img src="https://img.shields.io/badge/Fairness%20in%20AI-E53935?style=for-the-badge" alt="Fairness in AI">
+    <img src="https://img.shields.io/badge/Multimodal%20AI-00ACC1?style=for-the-badge" alt="Multimodal AI">
+    <img src="https://img.shields.io/badge/Colab%20Debugging-3C3C3C?style=for-the-badge" alt="Colab Debugging">
+  </td>
+</tr>
   </tr>
 </table>
 </div>
