@@ -173,7 +173,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
     <img src="https://img.shields.io/badge/OpenSMILE-FF7043?style=for-the-badge" alt="OpenSMILE">
     <img src="https://img.shields.io/badge/Fairness%20in%20AI-E53935?style=for-the-badge" alt="Fairness in AI">
     <img src="https://img.shields.io/badge/Multimodal%20AI-00ACC1?style=for-the-badge" alt="Multimodal AI">
-    <img src="https://img.shields.io/badge/Colab%20Debugging-3C3C3C?style=for-the-badge" alt="Colab Debugging">
+    <img src="https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle">
   </td>
 </tr>
   </tr>
