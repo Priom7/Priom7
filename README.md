@@ -164,8 +164,8 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
     <img src="https://img.shields.io/badge/Deep%20Learning-FF6F00?style=for-the-badge" alt="Deep Learning">
     <img src="https://img.shields.io/badge/NLP-1E88E5?style=for-the-badge" alt="Natural Language Processing">
     <img src="https://img.shields.io/badge/LLM-0082C8?style=for-the-badge" alt="Large Language Models">
-    <img src="https://img.shields.io/badge/Tokenizer-6A1B9A?style=for-the-badge" alt="Tokenizer">
-    <img src="https://img.shields.io/badge/Vectorization-00796B?style=for-the-badge" alt="Vectorization">
+<!--     <img src="https://img.shields.io/badge/Tokenizer-6A1B9A?style=for-the-badge" alt="Tokenizer">
+    <img src="https://img.shields.io/badge/Vectorization-00796B?style=for-the-badge" alt="Vectorization"> -->
     <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" alt="OpenAI">
     <img src="https://img.shields.io/badge/RAG-FF6F61?style=for-the-badge" alt="Retrieval Augmented Generation">
     <img src="https://img.shields.io/badge/SHAP-F9A825?style=for-the-badge" alt="SHAP Explainability">
