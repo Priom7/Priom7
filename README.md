@@ -294,6 +294,17 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 <table>
   <tr>
     <td width="80%">
+      <h3><a href="https://medium.com/@priom7197/detecting-bias-in-nlp-models-using-shap-a-practical-guide-to-responsible-ai-a4da57545590">Detecting Bias in NLP Models Using SHAP: A Practical Guide to Responsible AI</a></h3>
+      <p>In this article, we’ll explore how to use SHAP (SHapley Additive exPlanations) to detect and understand bias in NLP models. We’ll build a practical example from scratch, demonstrate how bias can hide in seemingly innocent features, and             provide actionable strategies for creating more equitable AI systems.</p>
+    </td>
+    <td width="20%" align="center">
+      <a href="https://medium.com/@priom7197/detecting-bias-in-nlp-models-using-shap-a-practical-guide-to-responsible-ai-a4da57545590">
+        <img src="https://img.shields.io/badge/Read%20Article-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read Article">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="80%">
       <h3><a href="https://medium.com/@priom7197/instantly-generate-laravel-apis-from-your-database-schema-a-powerful-cli-tool-dcae914b3f24">Instantly Generate Laravel APIs from Your Database Schema</a></h3>
       <p>Automating the tedious parts of API development with a powerful Node.js-based CLI tool designed to streamline the process of creating scalable, customizable, and production-ready Laravel APIs.</p>
     </td>
