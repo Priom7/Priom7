@@ -389,6 +389,17 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="80%">
+      <h3><a href="https://medium.com/@priom7197/when-more-hands-hurt-why-adding-people-to-a-software-project-doesnt-always-speed-it-up-c169ff6fc0fd">When More Hands Hurt: Why Adding People to a Software Project Doesn’t Always Speed It Up</a></h3>
+      <p>In software development, the fastest path to delivery isn’t always about more people — it’s about smarter planning, better communication, and the right pace.</p>
+    </td>
+    <td width="20%" align="center">
+      <a href="https://medium.com/@priom7197/when-more-hands-hurt-why-adding-people-to-a-software-project-doesnt-always-speed-it-up-c169ff6fc0fd">
+        <img src="https://img.shields.io/badge/Read%20Article-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read Article">
+      </a>
+    </td>
+  </tr>
    <tr>
     <td width="80%">
       <h3><a href="https://medium.com/@priom7197/the-gatekeeper-of-knowledge-in-corporate-culture-a-reflection-from-the-mid-career-frontlines-d5bcdf44204b">The Gatekeeper of Knowledge in Corporate Culture — A Reflection from the Mid-Career Frontlines</a></h3>
