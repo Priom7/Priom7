@@ -20,6 +20,10 @@
   </p>
 </div>
 
+## Semantic Web Tools
+ - RDF Data Playground - https://rdfplay.netlify.app/
+ - SOLID OS: SOLID Profile UI - https://solid-profile.netlify.app/
+
 ---
 
 ## 👨‍💻 About Me
