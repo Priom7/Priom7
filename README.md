@@ -25,8 +25,8 @@
 </div>
 
 ## Semantic Web Tools (OpenWebLab - https://openweblab.netlify.app/)
- - RDF Data Playground - https://rdfplay.netlify.app/
- - SOLID OS: SOLID Profile UI - https://solid-profile.netlify.app/
+ - RDF Data Playground - https://rdfplay.netlify.app/ (<a href="https://www.w3.org/2001/sw/wiki/Main_Page" target="_blank">Semantic Web Standards</a>)
+ - SOLID OS: SOLID Profile UI - https://solid-profile.netlify.app/ (<a href="https://solidproject.org/" target="_blank">SOLID</a>)
 
 ---
 
