@@ -9,7 +9,6 @@
   ### AI & Data Specialist
   RAG Applications | LLM Finetuning | AI-Integrated Apps for Instant Data Insights
   
-  --
   
   Focus: Ethical/Responsible/Transparent/Compliance AI, Ethical use of Data, <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>, <a href="https://artificialintelligenceact.eu/" target="_blank">EU AI Act (2024)</a>
   
