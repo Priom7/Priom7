@@ -3,11 +3,15 @@
 
   # Md. Sharif Alam
 
-  ### Fullstack Software Engineer
+  ### Full-stack Software Engineer
   Crafting intuitive UIs, seamless UX, robust backends, and reliable DevOps pipelines for cohesive digital experiences.
   
   ### AI & Data Specialist
   RAG Applications | LLM Finetuning | AI-Integrated Apps for Instant Data Insights
+  
+  --
+  
+  Focus: Ethical/Responsible/Transparent AI, Ethical use of Data, GDPR, Compliance, and EU AI Act (2024)
   
   [![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)](https://github.com/priom7)
 
