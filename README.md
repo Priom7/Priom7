@@ -11,7 +11,7 @@
   
   --
   
-  Focus: Ethical/Responsible/Transparent AI, Ethical use of Data, GDPR, Compliance, and EU AI Act (2024)
+  Focus: Ethical/Responsible/Transparent/Compliance AI, Ethical use of Data, <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>, <a href="https://eur-lex.europa.eu/legal-content/EN/TXT/?uri=CELEX:52023PC0206" target="_blank">EU AI Act (2024)</a>
   
   [![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)](https://github.com/priom7)
 
