@@ -6,7 +6,7 @@
   ### Full-stack Software Engineer
   Crafting intuitive UIs, seamless UX, robust backends, and reliable DevOps pipelines for cohesive digital experiences.
   
-  ### AI & Data Specialist
+  ### AI Engineer & Data Specialist
   RAG Applications | LLM Finetuning | AI-Integrated Apps for Instant Data Insights
   
   
