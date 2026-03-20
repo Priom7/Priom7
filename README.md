@@ -210,6 +210,18 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 <table>
   <tr>
     <td width="70%">
+      <h3><a href="https://medium.com/towardsdev/i-built-devinfrapilot-to-control-infrastructure-chaos-and-it-runs-completely-locally-b71a9ef770d9">DevInfraPilot — Your Local AI DevOps Assistant.</a> 💬</h3>
+      <p>This project is not a replacement for any of the existing tools out there. It’s a tool that connects all the dots, using available public/authorised API provided by the already existing tools in one place, and providing a unified visual, log, and audit report. On top, local AI agent helping to organise and summarize the given context in real time.</p>
+      <p><strong>Tech:</strong> Natural Language Processing, LLM, AWS CLI, Terraform, Git</p>
+    </td>
+    <td width="30%" align="center">
+      <a href="https://medium.com/towardsdev/i-built-devinfrapilot-to-control-infrastructure-chaos-and-it-runs-completely-locally-b71a9ef770d9">
+        <img src="https://img.shields.io/badge/Read%20Article-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read Article">
+      </a>
+    </td>
+  </tr>
+  <tr>
+    <td width="70%">
       <h3><a href="https://chat-w-data.netlify.app/#hero">Chat-W-Data (Agentic AI)</a> 💬</h3>
       <p>Highly customizable app to chat with your database, designed for both technical and non-technical users. Transforms natural language to SQL and delivers data insights in seconds.</p>
       <p><strong>Tech:</strong> Natural Language Processing, SQL Generation, React, Node.js</p>
