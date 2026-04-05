@@ -12,7 +12,6 @@
 
 ---
 
-## 🚀 2026 — Building in Public
 
 > *From individual contributor to technical lead. From prompts to autonomous agents. The journey continues.*
 
