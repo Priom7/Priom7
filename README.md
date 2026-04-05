@@ -1,7 +1,32 @@
 <div align="center">
+
+<!-- HERO BANNER -->
+<img width="100%" src="https://github.com/Priom7/Priom7/blob/master/images/Futuristic%20AI%20developer%20brand%20banner.png?raw=true" alt="Sharif Alam — AI Systems Architect | Technical Product Lead | Senior Software Engineer"/>
+
+[![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=6366f1&style=flat-square)](https://github.com/priom7)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sharif-alam/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=flat-square&logo=vercel)](https://sharifalam.netlify.app/)
+[![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://medium.com/@priom7197)
+
+</div>
+
+---
+
+## 🚀 2026 — Building in Public
+
+> *From individual contributor to technical lead. From prompts to autonomous agents. The journey continues.*
+
+```
+📍 Current Role  : Technical Lead / Software Project Manager
+🏢 Organisation  : PEN Group (15+ subsidiary education entities, UK)
+🧠 Focus         : ERP · HR-Tech · EdTech · FinTech · Enterprise AI Systems · Autonomous Agents · LLMOps
+⚡ Streak        : 100 Days of Code ✅ — and still counting
+```
+
+---
+<div align="center">
 <!--   <img src="https://github.com/Priom7/Priom7/blob/master/images/hello.png" alt="Cover Banner" width="40%" height="auto"> -->
 
-  # Md. Sharif Alam
 
   ### Full-stack Software Engineer
   Crafting intuitive UIs, seamless UX, robust backends, and reliable DevOps pipelines for cohesive digital experiences.
@@ -11,6 +36,53 @@
   
   
   Focus: Ethical/Responsible/Transparent/Compliance AI, Ethical use of Data, <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>, <a href="https://artificialintelligenceact.eu/" target="_blank">EU AI Act (2024)</a>
+  ---
+
+## 🧠 AI Mastery Journey
+
+```
+Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Loop
+       → Agentic AI → Fully Autonomous Agents → Hybrid Intent Systems
+```
+
+<div align="center">
+
+| Stage | What I Built / Learned | Status |
+|---|---|---|
+| 🔤 Prompt Engineering | Domain-specific prompts for ERP & data systems | ✅ Mastered |
+| 📚 RAG | Dictionary-based RAG optimisation, LangChain, MySQL vector stores | ✅ Mastered |
+| 🛡️ Guardrails & Drift | Hallucination mitigation, output validation, cost monitoring | ✅ Active |
+| 🔧 Tool Use / MCP | LLM-driven tool orchestration in production APIs | ✅ Active |
+| 👁️ Human-in-the-Loop | Approval gates, escalation logic, audit trails | ✅ Active |
+| 🤖 Agentic AI | Multi-step autonomous reasoning, chat-with-data agents | 🔨 Building |
+| 🌐 Fully Autonomous Agents | WorkPlaceOS, HR Assist, DevInfraPilot | 🔨 Building |
+| 🔀 Hybrid Intent | Blending autonomous + HITL dynamically at runtime | 🔨 Building |
+
+</div>
+
+---
+
+## 🏆 Milestones
+
+<div align="center">
+
+🗓️ **100 Days of Code** — Longest streak ever. Still going.
+
+📈 **Promoted** — Individual Contributor → Senior Dev → **Technical Lead / SPM** (2024–25)
+
+🏗️ **Led** 7+ parallel enterprise software projects at PEN Group (15+ subsidiaries)
+
+📝 **Published** 12+ technical articles on Medium across AI, LLMs, and software engineering
+
+</div>
+
+<div align="center">
+  <a href="https://github.com/ryo-ma/github-profile-trophy">
+    <img src="https://github-profile-trophy.vercel.app/?username=priom7&theme=monokai&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
+  </a>
+</div>
+
+---
   
   [![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=blueviolet&style=flat-square)](https://github.com/priom7)
 
