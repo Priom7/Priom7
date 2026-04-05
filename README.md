@@ -76,11 +76,33 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
 
 </div>
 
-<div align="center">
+## Agentic AI Workflow Demo
+
+**🤖AI Recuiter - Human in the loop Intent Based Routing**
+<p align="center">
+  <img src="https://github.com/Priom7/Priom7/blob/master/images/hrassistrecruiter.gif" width="80%" />
+</p>
+
+**🤖DevOps Copilot & Audit Control - Fetch codebase from Git Repo, Prepare complete AWS infrastructure for your app, Deploy, Monitor, and Audit**
+<p align="center">
+  <img src="https://github.com/Priom7/Priom7/blob/master/images/devinfrapilot.gif" width="80%" />
+</p>
+
+**🤖Ask HR AI Agent/Employee - Fully context-aware AI employee/agent in the system then can answer question and take action on behalf of you**
+<p align="center">
+  <img src="https://github.com/Priom7/Priom7/blob/master/images/hrassistchat.gif" width="40%" />
+</p>
+
+**🤖(In Progress) AI Employee, fully autonomous workflow - Can do work on behalf of you within the system and also outside the system (External MCP)**
+<p align="center">
+  <img src="https://github.com/Priom7/Priom7/blob/master/images/aiworkflow.gif" width="40%" />
+</p>
+
+<!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=priom7&theme=monokai&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
   </a>
-</div>
+</div> -->
 
 ---
   
