@@ -15,7 +15,7 @@
 > *From individual contributor to technical lead. From prompts to autonomous agents. The journey continues.*
 
 ```
-📍 Current Role  : Technical Lead / Software Project Manager
+📍 Current Role  : Software Developer / Technical Lead / Software Project Manager
 🧠 Focus         : ERP · HR-Tech · EdTech · FinTech · Enterprise AI Systems · Autonomous Agents · LLMOps
 ⚡ Streak        : 100 Days of Code ✅ — and still counting
 ```
