@@ -16,7 +16,6 @@
 
 ```
 📍 Current Role  : Technical Lead / Software Project Manager
-🏢 Organisation  : PEN Group (15+ subsidiary education entities, UK)
 🧠 Focus         : ERP · HR-Tech · EdTech · FinTech · Enterprise AI Systems · Autonomous Agents · LLMOps
 ⚡ Streak        : 100 Days of Code ✅ — and still counting
 ```
