@@ -47,14 +47,14 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
 
 | Stage | What I Built / Learned | Status |
 |---|---|---|
-| 🔤 Prompt Engineering | Domain-specific prompts for ERP & data systems | ✅ Mastered |
-| 📚 RAG | Dictionary-based RAG optimisation, LangChain, MySQL vector stores | ✅ Mastered |
-| 🛡️ Guardrails & Drift | Hallucination mitigation, output validation, cost monitoring | ✅ Active |
-| 🔧 Tool Use / MCP | LLM-driven tool orchestration in production APIs | ✅ Active |
-| 👁️ Human-in-the-Loop | Approval gates, escalation logic, audit trails | ✅ Active |
-| 🤖 Agentic AI | Multi-step autonomous reasoning, chat-with-data agents | 🔨 Building |
-| 🌐 Fully Autonomous Agents | WorkPlaceOS, HR Assist, DevInfraPilot | 🔨 Building |
-| 🔀 Hybrid Intent | Blending autonomous + HITL dynamically at runtime | 🔨 Building |
+| 🔤 Prompt Engineering | Domain-specific prompts for ERP & data systems | ✅  |
+| 📚 RAG | Dictionary-based RAG optimisation, LangChain, MySQL vector stores | ✅  |
+| 🛡️ Guardrails & Drift | Hallucination mitigation, output validation, cost monitoring | ✅  |
+| 🔧 Tool Use / MCP | LLM-driven tool orchestration in production APIs | ✅  |
+| 👁️ Human-in-the-Loop | Approval gates, escalation logic, audit trails | ✅  |
+| 🤖 Agentic AI | Multi-step autonomous reasoning, chat-with-data agents | 🔨  |
+| 🌐 Fully Autonomous Agents | WorkPlaceOS, HR Assist, DevInfraPilot | 🔨  |
+| 🔀 Hybrid Intent | Blending autonomous + HITL dynamically at runtime | 🔨  |
 
 </div>
 
