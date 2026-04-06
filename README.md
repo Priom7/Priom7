@@ -5,7 +5,6 @@
 
 [![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=6366f1&style=flat-square)](https://github.com/priom7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sharif-alam/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-ff69b4?style=flat-square&logo=vercel)](https://sharifalam.netlify.app/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://medium.com/@priom7197)
 
 </div>
