@@ -76,7 +76,7 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
 
 ## Agentic AI Workflow Demo
 
-**🤖AI Recuiter - Human in the loop Intent Based Routing**
+**🤖AI Recruiter - Human in the loop Intent Based Routing**
 <p align="center">
   <img src="https://github.com/Priom7/Priom7/blob/master/images/hrassistrecruiter.gif" width="80%" />
 </p>
