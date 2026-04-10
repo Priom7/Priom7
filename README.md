@@ -147,7 +147,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
-    <img src="https://github-profile-trophy.vercel.app/?username=priom7&theme=monokai&no-frame=true&row=1&column=5" alt="GitHub Trophy Case" />
+    <img src="https://github-trophies.vercel.app/?username=priom7&theme=monokai&no-frame=true&row=1" alt="GitHub Trophy Case" />
   </a>
 </div>
 
