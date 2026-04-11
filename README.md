@@ -14,11 +14,12 @@
 
 > *From individual contributor to technical lead. From prompts to autonomous agents. The journey continues.*
 
-```
-📍 Current Role  : Software Developer / Technical Lead / Software Project Manager
-🧠 Focus         : ERP · HR-Tech · EdTech · FinTech · Enterprise AI Systems · Autonomous Agents · LLMOps
-⚡ Streak        : 100 Days of Code ✅ — and still counting
-```
+<div align="center">
+📍 Current Role  : Software Developer / Technical Lead / Software Project Manager </br>
+🧠 Focus         : ERP · HR-Tech · EdTech · FinTech · Enterprise AI Systems · Autonomous Agents · LLMOps  </br>
+⚡ Streak        : 100 Days of Code ✅ — and still counting  </br>
+⚡ Career        : Delivered systems across 20+ organisations(30K+ users) | Contributed to 5+ startups building systems from 0 → production (Global Scale)  </br>
+</div>
 
 ---
 <div align="center">
