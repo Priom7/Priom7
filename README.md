@@ -15,10 +15,9 @@
 > *From individual contributor to technical lead. From prompts to autonomous agents. The journey continues.*
 
 <div align="center">
-📍 Current Role  : Software Developer / Technical Lead / Software Project Manager </br>
-🧠 Focus         : ERP · HR-Tech · EdTech · FinTech · Enterprise AI Systems · Autonomous Agents · LLMOps  </br>
-⚡ Streak        : 100 Days of Code ✅ — and still counting  </br>
-⚡ Career        : Delivered systems across 20+ organisations(30K+ users) | Contributed to 5+ startups building systems from 0 → production (Global Scale)  </br>
+Current Role: Software Developer / Technical Lead / Software Project Manager </br>
+Focus: ERP · HR-Tech · EdTech · FinTech · Enterprise AI Systems · Autonomous Agents · LLMOps  </br>
+Career: Delivered systems across 20+ organisations(30K+ users) | Contributed to 5+ startups building systems from 0 → production (Global Scale)  </br>
 </div>
 
 ---
@@ -36,7 +35,7 @@
   Focus: Ethical/Responsible/Transparent/Compliance AI, Ethical use of Data, <a href="https://gdpr-info.eu/" target="_blank">GDPR</a>, <a href="https://artificialintelligenceact.eu/" target="_blank">EU AI Act (2024)</a>
   ---
 
-## 🧠 AI Mastery Journey
+## AI Mastery Journey
 
 ```
 Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Loop
@@ -47,53 +46,51 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
 
 | Stage | What I Built / Learned | Status |
 |---|---|---|
-| 🔤 Prompt Engineering | Domain-specific prompts for ERP & data systems | ✅  |
-| 📚 RAG | Dictionary-based RAG optimisation, LangChain, MySQL vector stores | ✅  |
-| 🛡️ Guardrails & Drift | Hallucination mitigation, output validation, cost monitoring | ✅  |
-| 🔧 Tool Use / MCP | LLM-driven tool orchestration in production APIs | ✅  |
-| 👁️ Human-in-the-Loop | Approval gates, escalation logic, audit trails | ✅  |
-| 🤖 Agentic AI | Multi-step autonomous reasoning, chat-with-data agents | 🔨  |
-| 🌐 Fully Autonomous Agents | WorkPlaceOS, HR Assist, DevInfraPilot | 🔨  |
-| 🔀 Hybrid Intent | Blending autonomous + HITL dynamically at runtime | 🔨  |
+| Prompt Engineering | Domain-specific prompts for ERP & data systems | ✅  |
+| RAG | Dictionary-based RAG optimisation, LangChain, MySQL vector stores | ✅  |
+| Guardrails & Drift | Hallucination mitigation, output validation, cost monitoring | ✅  |
+| Tool Use / MCP | LLM-driven tool orchestration in production APIs | ✅  |
+| Human-in-the-Loop | Approval gates, escalation logic, audit trails | ✅  |
+| Agentic AI | Multi-step autonomous reasoning, chat-with-data agents | 🔨  |
+| Fully Autonomous Agents | WorkPlaceOS, HR Assist, DevInfraPilot | 🔨  |
+| Hybrid Intent | Blending autonomous + HITL dynamically at runtime | 🔨  |
 
 </div>
 
 ---
 
-## 🏆 Milestones
+## Milestones
 
 <div align="center">
 
-🗓️ **100 Days of Code** — Longest streak ever. Still going.
+**Progression** — IC → Senior Engineer → **Technical Program Lead / Staff-Level Scope** (2024–25)
 
-📈 **Progression** — IC → Senior Engineer → **Technical Program Lead / Staff-Level Scope** (2024–25)
+**Led 7+ concurrent enterprise platforms** across a **20+ organisation group (30K+ users)**
 
-🏗️ **Led 7+ concurrent enterprise platforms** across a **20+ organisation group (30K+ users)**
+**Contributed to 5 startup platforms**, building systems from **0 → production**
 
-🚀 **Contributed to 5 startup platforms**, building systems from **0 → production**
-
-📝 **Published 12+ technical articles** on Medium (AI, LLMs, systems engineering)
+**Published 12+ technical articles** on Medium (AI, LLMs, systems engineering)
 
 </div>
 
 ## Agentic AI Workflow Demo
 
-**🤖AI Recruiter - Human in the loop Intent Based Routing**
+**AI Recruiter - Human in the loop Intent Based Routing**
 <p align="center">
   <img src="https://github.com/Priom7/Priom7/blob/master/images/hrassistrecruiter.gif" width="80%" />
 </p>
 
-**🤖DevOps Copilot & Audit Control - Fetch codebase from Git Repo, Prepare complete AWS infrastructure for your app, Deploy, Monitor, and Audit**
+**DevOps Copilot & Audit Control - Fetch codebase from Git Repo, Prepare complete AWS infrastructure for your app, Deploy, Monitor, and Audit**
 <p align="center">
   <img src="https://github.com/Priom7/Priom7/blob/master/images/devinfrapilot.gif" width="80%" />
 </p>
 
-**🤖Ask HR AI Agent/Employee - Fully context-aware AI employee/agent in the system then can answer question and take action on behalf of you**
+**Ask HR AI Agent/Employee - Fully context-aware AI employee/agent in the system then can answer question and take action on behalf of you**
 <p align="center">
   <img src="https://github.com/Priom7/Priom7/blob/master/images/hrassistchat.gif" width="40%" />
 </p>
 
-**🤖(In Progress) AI Employee, fully autonomous workflow - Can do work on behalf of you within the system and also outside the system (External MCP)**
+**(In Progress) AI Employee, fully autonomous workflow - Can do work on behalf of you within the system and also outside the system (External MCP)**
 <p align="center">
   <img src="https://github.com/Priom7/Priom7/blob/master/images/aiworkflow.gif" width="40%" />
 </p>
@@ -124,7 +121,7 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
 
 ---
 
-## 👨‍💻 About Me
+## More About Me
 
 With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
@@ -146,7 +143,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
 ---
 
-## 🏆 Achievements
+## Achievements
 
 <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -156,7 +153,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
 ---
 
-## 📊 GitHub Analytics
+## GitHub Analytics
 
 <div align="center">
   <table>
@@ -178,7 +175,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
 ---
 
-## 💡 Daily Inspiration
+## Daily Inspiration
 
 <div align="center">
   <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" alt="Random Quote" />
@@ -186,7 +183,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
 ---
 
-## 🛠️ Technical Skills
+## Technical Skills
 <div align="center">
 <table>
   <tr>
@@ -284,7 +281,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
 ---
 
-## 🔭 Current Tech Stack
+## Current Tech Stack
 
 <div align="center">
   <img src="https://img.shields.io/badge/Laravel-PHP-%23FF2D20?style=for-the-badge&logo=laravel&logoColor=white" alt="Laravel/PHP">
@@ -299,7 +296,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
 ---
 
-## 🌐 Flagship Projects
+## Flagship Projects
 
 <table>
   <tr>
@@ -529,7 +526,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
 ---
 
-## 🔗 Additional Resources
+## Additional Resources
 
 <table>
   <tr>
@@ -580,7 +577,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
 ---
 
-## 📈 Language Distribution
+## Language Distribution
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=priom7&langs_count=16&layout=compact&bg_color=0D1117&text_color=ffffff&title_color=00E6FE&icon_color=00E6FE" alt="Top Languages">
@@ -588,7 +585,7 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 
 ---
 
-## 📫 Let's Connect
+## Let's Connect
 
 <div align="center">
   <a href="https://www.linkedin.com/in/md-sharif-alam/" target="_blank">
@@ -607,11 +604,12 @@ With **7+ years of expertise in FinTech and EdTech**, I specialize in:
 </div>
 
 ---
-
-## 🔍 Other Projects
+<!--
+## Other Projects
 
 - **[Yoga App](https://github.com/Priom7/Yoga-App)**: Native and hybrid Android applications for managing yoga courses, classes, and schedules.
   
 - **[IT Workflow Automation](https://github.com/Priom7/ReactAdminDashboard)**: Complete ERP system for automating IT workflows, asset management, and inventory scheduling.
   
 - **[Speaking and Listening Assistant](https://github.com/Priom7/CSE-299-Speaking-and-Listening-Assistant-Smart-Gloves-and-App-.git)**: Smart glove integrated with Arduino and Android for enhanced communication.
+--!>
