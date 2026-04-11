@@ -1,7 +1,7 @@
 <div align="center">
 
 <!-- HERO BANNER -->
-<img width="100%" src="https://github.com/Priom7/Priom7/blob/master/images/Futuristic%20AI%20developer%20brand%20banner.png?raw=true" alt="Sharif Alam — AI Systems Architect | Technical Product Lead | Senior Software Engineer"/>
+<!-- <img width="100%" src="https://github.com/Priom7/Priom7/blob/master/images/Futuristic%20AI%20developer%20brand%20banner.png?raw=true" alt="Sharif Alam — AI Systems Architect | Technical Product Lead | Senior Software Engineer"/> -->
 
 [![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=6366f1&style=flat-square)](https://github.com/priom7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sharif-alam/)
