@@ -65,11 +65,13 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
 
 🗓️ **100 Days of Code** — Longest streak ever. Still going.
 
-📈 **Promoted** — Individual Contributor → Senior Dev → **Technical Lead / SPM** (2024–25)
+📈 **Progression** — IC → Senior Engineer → **Technical Program Lead / Staff-Level Scope** (2024–25)
 
-🏗️ **Led** 7+ parallel enterprise software projects at PEN Group (15+ subsidiaries)
+🏗️ **Led 7+ concurrent enterprise platforms** across a **20+ organisation group (30K+ users)**
 
-📝 **Published** 12+ technical articles on Medium across AI, LLMs, and software engineering
+🚀 **Contributed to 5 startup platforms**, building systems from **0 → production**
+
+📝 **Published 12+ technical articles** on Medium (AI, LLMs, systems engineering)
 
 </div>
 
