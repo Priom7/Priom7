@@ -12,7 +12,7 @@
 ---
 
 
-> *From individual contributor to technical lead. From prompts to autonomous agents. The journey continues.*
+> *From individual contributor to technical lead. From prompts to autonomous agents. Building Agentic Software. The journey continues.*
 
 <div align="center">
 Current Role: Full Stack Software Developer / Technical Lead / Software Project Manager / Forward Deployed Engineer </br>
