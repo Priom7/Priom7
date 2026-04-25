@@ -124,7 +124,7 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
 
 ## More About Me
 
-With **7+ years of expertise in FinTech and EdTech**, I specialize in:
+With **years of expertise in HRTech, FinTech, and EdTech**, I specialize in:
 
 - Transforming legacy systems into modern, scalable architectures
 - End-to-end project management with a focus on maintainability
