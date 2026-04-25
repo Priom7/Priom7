@@ -15,7 +15,8 @@
 > *From individual contributor to technical lead. From prompts to autonomous agents. Building Agentic Software. The journey continues.*
 
 <div align="center">
-Current Role: Full Stack Software Developer / Technical Lead / Software Project Manager / Forward Deployed Engineer </br>
+Roles: Full Stack Software Developer / Technical Lead / Software Project Manager / Forward Deployed Engineer </br>
+Building: AI Engineering 
 Focus: ERP · HR-Tech · EdTech · FinTech · Enterprise AI Systems · Autonomous Agents · LLMOps  </br>
 Career: Delivered systems across 20+ organisations(30K+ users) | Contributed to 5+ startups building systems from 0 → production (Global Scale)  </br>
 </div>
