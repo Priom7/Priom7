@@ -404,6 +404,21 @@ With **years of expertise in HRTech, FinTech, and EdTech**, I specialize in:
 ## 📝 Articles & Publications
 
 <table>
+    <tr>
+    <td width="80%">
+      <h3><a href="https://medium.com/@priom7197/ai-driven-agentic-software-development-life-cycle-in-2026-3c9a2390a9e7">AI-Driven & Agentic Software Development Life Cycle in 2026</a></h3>
+      <p>The destination hasn’t changed. The vehicle has.
+The traditional SDLC is not wrong. It identified the right phases, the right concerns, and the right stakeholder relationships. What it could not anticipate was a world where the primary bottleneck shifts from developer capacity to context quality — where the art of software engineering migrates from syntax to orchestration.
+
+The Agentic SDLC does not erase what came before. It elevates the human contribution to a higher level of abstraction: defining goals with precision, designing the workflows that agents execute, governing the outputs they produce, and maintaining the context that makes everything coherent over time.</p>
+    </td>
+    <td width="20%" align="center">
+      <a href="https://medium.com/@priom7197/ai-driven-agentic-software-development-life-cycle-in-2026-3c9a2390a9e7">
+        <img src="https://img.shields.io/badge/Read%20Article-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read Article">
+      </a>
+    </td>
+  </tr>
+  <tr>
   <tr>
     <td width="80%">
       <h3><a href="https://medium.com/@priom7197/detecting-bias-in-nlp-models-using-shap-a-practical-guide-to-responsible-ai-a4da57545590">Detecting Bias in NLP Models Using SHAP: A Practical Guide to Responsible AI</a></h3>
