@@ -6,7 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=6366f1&style=flat-square)](https://github.com/priom7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sharif-alam/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://medium.com/@priom7197)
-
+   <h3> New Article: <a href="https://medium.com/@priom7197/ai-driven-agentic-software-development-life-cycle-in-2026-3c9a2390a9e7">AI-Driven & Agentic Software Development Life Cycle in 2026</a></h3>
 </div>
 
 ---
