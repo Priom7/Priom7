@@ -6,6 +6,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=6366f1&style=flat-square)](https://github.com/priom7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sharif-alam/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://medium.com/@priom7197)
+   <h3> New Article: <a href="https://medium.com/towards-artificial-intelligence/maximise-your-software-stakeholder-satisfaction-with-ai-from-this-is-not-what-we-asked-for-to-d13ea58806a0">Maximise Your Software Stakeholder Satisfaction with AI: From "This Is Not What We Asked For" to "This Is Exactly What I Asked For"</a></h3>
    <h3> New Article: <a href="https://medium.com/@priom7197/ai-driven-agentic-software-development-life-cycle-in-2026-3c9a2390a9e7">AI-Driven & Agentic Software Development Life Cycle in 2026</a></h3>
 </div>
 
@@ -15,7 +16,7 @@
 > *From individual contributor to technical lead. From prompts to autonomous agents. Building Agentic Software. The journey continues.*
 
 <div align="center">
-Roles: Full Stack Software Developer / Technical Lead / Software Project Manager / Forward Deployed Engineer </br>
+Roles: Full Stack Software Developer / Technical Lead / Software Engineering Manager / Forward Deployed Engineer </br>
 Building: AI Engineering 
 Focus: ERP · HR-Tech · EdTech · FinTech · Enterprise AI Systems · Autonomous Agents · LLMOps  </br>
 Career: Delivered systems across 20+ organisations(30K+ users) | Contributed to 5+ startups building systems from 0 → production (Global Scale)  </br>
