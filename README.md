@@ -408,6 +408,17 @@ With **years of expertise in HRTech, FinTech, and EdTech**, I specialize in:
 <table>
     <tr>
     <td width="80%">
+      <h3><a href="https://pub.towardsai.net/building-a-production-grade-mcp-server-with-jwt-auth-and-role-based-tool-access-d834257e1487">Building a Production-Grade MCP Server with JWT Auth and Role-Based Tool Access</a></h3>
+      <p>Most MCP tutorials show you how to wire up a tool and call it from Claude. That is fine for a weekend experiment. But when you are building MCP into a real enterprise system, one with HR data, procurement approvals, financial records, and five distinct user roles — “wire up a tool” is nowhere near enough.</p>
+    </td>
+    <td width="20%" align="center">
+      <a href="https://pub.towardsai.net/building-a-production-grade-mcp-server-with-jwt-auth-and-role-based-tool-access-d834257e1487">
+        <img src="https://img.shields.io/badge/Read%20Article-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read Article">
+      </a>
+    </td>
+  </tr>
+    <tr>
+    <td width="80%">
       <h3><a href="https://medium.com/@priom7197/ai-driven-agentic-software-development-life-cycle-in-2026-3c9a2390a9e7">AI-Driven & Agentic Software Development Life Cycle in 2026</a></h3>
       <p>The destination hasn’t changed. The vehicle has.
 The traditional SDLC is not wrong. It identified the right phases, the right concerns, and the right stakeholder relationships. What it could not anticipate was a world where the primary bottleneck shifts from developer capacity to context quality — where the art of software engineering migrates from syntax to orchestration.
