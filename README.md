@@ -417,6 +417,19 @@ With **years of expertise in HRTech, FinTech, and EdTech**, I specialize in:
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="80%">
+      <h3><a href="https://pub.towardsai.net/maximise-your-software-stakeholder-satisfaction-with-ai-from-this-is-not-what-we-asked-for-to-d13ea58806a0">Stakeholder Satisfaction with AI: From “This Is Not What We Asked For” to “This Is Exactly What I Asked For, and It’s a Lot Better”</a></h3>
+      <p>The Standish Group’s CHAOS Report, running since 1994, is the most cited longitudinal study of software project outcomes in the industry. Its findings are brutal: only 29% of software projects are deemed fully successful, delivered on time, on budget, and with all required features. 
+
+The 2021 iteration studied 50,000 projects globally and found that 52% were “challenged” and 19% were outright failures. For large enterprises, the numbers are even grimmer: only 9% of large-company projects are successful.</p>
+    </td>
+    <td width="20%" align="center">
+      <a href="https://pub.towardsai.net/building-a-production-grade-mcp-server-with-jwt-auth-and-role-based-tool-access-d834257e1487">
+        <img src="https://img.shields.io/badge/Read%20Article-%23000000?style=for-the-badge&logo=medium&logoColor=white" alt="Read Article">
+      </a>
+    </td>
+  </tr>
     <tr>
     <td width="80%">
       <h3><a href="https://medium.com/@priom7197/ai-driven-agentic-software-development-life-cycle-in-2026-3c9a2390a9e7">AI-Driven & Agentic Software Development Life Cycle in 2026</a></h3>
