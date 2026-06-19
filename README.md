@@ -363,42 +363,7 @@ With **years of expertise in HRTech, FinTech, and EdTech**, I specialize in:
       </a>
     </td>
   </tr>
-  <tr>
-    <td width="70%">
-      <h3><a href="https://priceless-wescoff-783a66.netlify.app/">Covid-19 Dashboard</a> 🦠</h3>
-      <p>A live dashboard providing up-to-date information on the Covid-19 pandemic. Stay informed with the latest stats and trends.</p>
-      <p><strong>Tech:</strong> React, Data Visualization, REST API</p>
-    </td>
-    <td width="30%" align="center">
-      <a href="https://priceless-wescoff-783a66.netlify.app/">
-        <img src="https://img.shields.io/badge/View%20Dashboard-%232496ED?style=for-the-badge&logo=react&logoColor=white" alt="Covid Dashboard">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="70%">
-      <h3><a href="https://netflix-clone-app-396c5.web.app/">Netflix Clone App</a> 🎬</h3>
-      <p>A clone of the popular streaming service Netflix. Explore the latest movies and shows with an interactive UI.</p>
-      <p><strong>Tech:</strong> React, Firebase, API Integration</p>
-    </td>
-    <td width="30%" align="center">
-      <a href="https://netflix-clone-app-396c5.web.app/">
-        <img src="https://img.shields.io/badge/View%20App-%23E50914?style=for-the-badge&logo=netflix&logoColor=white" alt="Netflix Clone">
-      </a>
-    </td>
-  </tr>
-  <tr>
-    <td width="70%">
-      <h3><a href="https://gifted-joliot-e609d7.netlify.app/">Weather App</a> ☁️</h3>
-      <p>Get the latest weather updates for your location. Simple, accurate, and always updated.</p>
-      <p><strong>Tech:</strong> JavaScript, Weather API, Responsive Design</p>
-    </td>
-    <td width="30%" align="center">
-      <a href="https://gifted-joliot-e609d7.netlify.app/">
-        <img src="https://img.shields.io/badge/View%20App-%231E88E5?style=for-the-badge&logo=react&logoColor=white" alt="Weather App">
-      </a>
-    </td>
-  </tr>
+  
 </table>
 
 ---
