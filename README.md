@@ -100,7 +100,7 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
 
 **AI-native Project Operating System powered by: MCP integrations, RAG-based project memory, local Ollama models, contextual AI workflows**
 <p align="center">
-  <img src="https://github.com/Priom7/Priom7/blob/master/images/MCP.gif" width="40%" />
+  <img src="https://github.com/Priom7/Priom7/blob/master/images/MCP.gif" width="80%" />
 </p>
 
 <!-- <div align="center">
