@@ -98,6 +98,11 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
   <img src="https://github.com/Priom7/Priom7/blob/master/images/aiworkflow.gif" width="40%" />
 </p>
 
+**AI-native Project Operating System powered by: MCP integrations, RAG-based project memory, local Ollama models, contextual AI workflows**
+<p align="center">
+  <img src="https://github.com/Priom7/Priom7/blob/master/images/MCP.gif" width="40%" />
+</p>
+
 <!-- <div align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
     <img src="https://github-profile-trophy.vercel.app/?username=priom7&theme=monokai&no-frame=true&row=1&column=6" alt="GitHub Trophies"/>
