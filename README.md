@@ -18,7 +18,7 @@
 Roles: Full Stack Software Developer / Technical Lead / Software Engineering Manager / Forward Deployed Engineer </br>
 Building: AI Engineering 
 Focus: ERP · HR-Tech · EdTech · FinTech · Enterprise AI Systems · Autonomous Agents · LLMOps  </br>
-Career: Delivered systems across 20+ organisations(30K+ users) | Contributed to 5+ startups building systems from 0 → production (Global Scale)  </br>
+Career: Delivered systems across 40+ organisations(100K+ users) | Contributed to 5+ startups building systems from 0 → production (Global Scale)  </br>
 </div>
 
 ---
