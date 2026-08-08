@@ -64,9 +64,9 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
 
 <div align="center">
 
-**Progression** — IC → Senior Engineer → **Technical Program Lead / Staff-Level Scope** (2024–25)
+**Progression** — IC → Senior Engineer → **Technical Program Lead / Staff-Level Scope** (2020–26)
 
-**Led 7+ concurrent enterprise platforms** across a **20+ organisation group (30K+ users)**
+**Led 9+ concurrent enterprise platforms** across a **40+ organisation group (100K+ users)**
 
 **Contributed to 5 startup platforms**, building systems from **0 → production**
 
