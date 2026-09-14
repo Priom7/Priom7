@@ -6,13 +6,16 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=priom7&label=PROFILE+VIEWS&color=6366f1&style=flat-square)](https://github.com/priom7)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sharif-alam/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://medium.com/@priom7197)
- <h3> New Article: <a href="https://medium.com/@priom7197/building-a-production-grade-mcp-server-with-jwt-auth-and-role-based-tool-access-d834257e1487">Building a Production-Grade MCP Server with JWT Auth and Role-Based Tool Access</a></h3>
+<!-- <h3> New Article: <a href="https://medium.com/@priom7197/building-a-production-grade-mcp-server-with-jwt-auth-and-role-based-tool-access-d834257e1487">Building a Production-Grade MCP Server with JWT Auth and Role-Based Tool Access</a></h3> -->
 </div>
 
 ---
 
 
-> *From individual contributor to technical lead. From prompts to autonomous agents. Building Agentic Software. The journey continues.*
+> *A language model is a stochastic function with a fixed context budget, a probabilistic output distribution, no memory, no ground truth, and no guarantee of format.*
+
+> *AI engineering is the discipline of building deterministic-enough products
+on top of that function.*
 
 <div align="center">
 Roles: Full Stack Software Developer / Technical Lead / Software Engineering Manager / Forward Deployed Engineer </br>
