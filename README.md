@@ -7,6 +7,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://www.linkedin.com/in/md-sharif-alam/)
 [![Medium](https://img.shields.io/badge/Medium-Articles-000000?style=flat-square&logo=medium)](https://medium.com/@priom7197)
 <!-- <h3> New Article: <a href="https://medium.com/@priom7197/building-a-production-grade-mcp-server-with-jwt-auth-and-role-based-tool-access-d834257e1487">Building a Production-Grade MCP Server with JWT Auth and Role-Based Tool Access</a></h3> -->
+ <h3> New Article: <a href="https://medium.com/@priom7197/jev-typesafe-ai-and-the-layer-i-have-been-missing-in-agent2world-ff811a010bb2?sharedUserId=priom7197">A2W (Agent2World) is the layer I am using to connect specialized tools, applications, agents, and governed execution.</a></h3> 
+
 </div>
 
 ---
