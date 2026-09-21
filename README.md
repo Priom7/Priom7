@@ -77,7 +77,11 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
 
 </div>
 
-## Agentic AI Workflow Demo
+## Agentic AI Workflow Demo (Local, AI Native)
+
+<p align="center">
+  <img src="https://github.com/Priom7/Priom7/blob/master/images/2.png" width="80%" />
+</p>
 
 **Agent2World - Enterprise agentic architecture and AI harness engineering — moving beyond isolated AI agents toward persistent, observable, and governed multi-agent environments.**
 <p align="center">
