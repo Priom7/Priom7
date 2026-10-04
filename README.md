@@ -80,6 +80,13 @@ Prompt Engineering → RAG → Guardrails → Tool Use / MCP → Human-in-the-Lo
 </div>
 
 ## Agentic AI Workflow Demo (Local, AI Native)
+Watch Demo here:  https://youtu.be/08jcNSpUxn4?si=NQXEz6NlYSmAi3ab
+
+<p align="center">
+  <img src="https://github.com/Priom7/Priom7/blob/master/images/Agent2Work_ Your AI Agent Workspace.png" width="80%" />
+</p>
+
+**Agent2Work - Meet Agent2Work—a customisable AI workspace where you create specialised buddies with their own instructions and tools, then build interactive trackers and dashboards around your needs.**
 
 <p align="center">
   <img src="https://github.com/Priom7/Priom7/blob/master/images/2.png" width="80%" />
